@@ -11,8 +11,9 @@ body
 }
 .Font
 {
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: 'Corinthia', cursive;
     padding-bottom: 20px;
+    font-size: 60px;
 }
 .hvr:hover
 {
@@ -43,7 +44,7 @@ body
 .Main-Body
 {
     position: relative;
-    top: 227.6px;
+    top: 254.6px;
 }
 .Heading-Colors
 {
